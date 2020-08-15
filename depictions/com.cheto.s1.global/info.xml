@@ -1,0 +1,40 @@
+<package>
+	<id>com.cheto.s1.global</id>
+	<name>Cheto PUBGM 0.19.0</name>
+	<version>1922-5add3315-GLOBAL-35</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a backup of Cheto PUBGM GLOBAL v1922</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/ipaSigner</name>
+			<url>https://ipasigner.ga/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

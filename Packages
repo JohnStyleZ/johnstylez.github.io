@@ -1,0 +1,13 @@
+Package: com.cheto.s1.global
+Version: 1922-5add3315-GLOBAL-35
+Section: Tweaks
+Maintainer: Cheto
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.cheto.s1.global_1922-5add3315-GLOBAL-35_iphoneos-arm.deb
+Size: 3018306
+MD5sum: e3adfb0d27f26e464716f6e7056decfb
+Description: Cheto PUBGM GLOBAL v1922
+Name: Cheto PUBGM 0.19.0
+Author: Cheto
+Depiction: http://repo.ipasigner.ga/depictions/?p=com.cheto.s1.global
