@@ -4,7 +4,7 @@
 	<version>1922-5add3315-GLOBAL-35</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>12.0</maxiOS>
+			<miniOS>12.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
