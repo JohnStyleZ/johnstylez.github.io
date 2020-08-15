@@ -1,0 +1,11 @@
+Package: com.cheto.s1.global
+Name: Cheto PUBGM 0.19.0
+Version: 1922-5add3315-GLOBAL-35
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 7384
+Description: Cheto PUBGM 0.19.0 region: GLOBAL
+Homepage: https://www.cheto.io/xx/store/product/1/-
+Maintainer: Cheto
+Author: Cheto
+Section: Tweaks

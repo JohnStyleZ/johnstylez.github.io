@@ -32,7 +32,7 @@ Section: Tweaks
 Maintainer: Cheto
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.cheto.s1.global_1922-5add3315-GLOBAL-35_iphoneos-arm.deb
 Size: 3018306
 MD5sum: e3adfb0d27f26e464716f6e7056decfb
 Description: Cheto PUBGM v1922
