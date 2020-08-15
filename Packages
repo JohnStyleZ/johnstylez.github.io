@@ -13,12 +13,12 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://johnstylez.github.io/depictions/?p=com.supermamon.newpackage
 
 Package: com.cheto.s1.global
-Version: 1922-5add3315-GLOBAL-35
+Version: 1948-0ae52e94-GLOBAL-206
 Section: Tweaks
 Maintainer: Cheto
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.cheto.s1.global_1922-5add3315-GLOBAL-35_iphoneos-arm.deb
+Filename: debs/com.cheto.s1.global_1948-0ae52e94-GLOBAL-206.deb
 Size: 3018306
 MD5sum: e3adfb0d27f26e464716f6e7056decfb
 Description: Cheto PUBGM v1922
