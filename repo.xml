@@ -1,13 +1,13 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Contact me on telegram</name>
+			<url>https://t.me/johnstylez</url>
+			<iconclass>fa fa-telegram</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
+			<name>ipaSigner (we sign cheto ipa)</name>
+			<url>https://ipasigner.ga/</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
