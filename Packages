@@ -53,3 +53,18 @@ Description: Cheto PUBGM v2003
 Name: Cheto PUBGM 0.19.0 (ipaSigner backup)
 Author: Cheto
 Depiction: https://johnstylez.github.io/depictions/?p=com.cheto.s1.global
+
+
+Package: com.cheto.s1.global
+Version: 2023-40d007c5-GLOBAL-206
+Section: Tweaks
+Maintainer: Cheto
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.cheto.s1.global_2023-40d007c5-GLOBAL-206.deb
+Size: 3035640
+MD5sum: cea1833c5457c292223fd0301a873dbf
+Description: Cheto PUBGM v2023
+Name: Cheto PUBGM 0.19.0 (ipaSigner backup)
+Author: Cheto
+Depiction: https://johnstylez.github.io/depictions/?p=com.cheto.s1.global
