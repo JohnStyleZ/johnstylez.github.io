@@ -68,3 +68,45 @@ Description: Cheto PUBGM v2023
 Name: Cheto PUBGM 0.19.0 (ipaSigner backup)
 Author: Cheto
 Depiction: https://johnstylez.github.io/depictions/?p=com.cheto.s1.global
+
+Package: com.cheto.s1.global
+Version: 2060-5f6ad76f-GLOBAL-206
+Section: Tweaks
+Maintainer: Cheto
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.cheto.s1.global_2060-5f6ad76f-GLOBAL-206.deb
+Size: 3036936
+MD5sum: 127f26a634a4d43405faed83d861a23a
+Description: Cheto PUBGM v2060
+Name: Cheto PUBGM 0.19.0 (ipaSigner backup)
+Author: Cheto
+Depiction: https://johnstylez.github.io/depictions/?p=com.cheto.s1.global
+
+Package: com.cheto.s1.global
+Version: 2071-8c26bb0c-GLOBAL-206
+Section: Tweaks
+Maintainer: Cheto
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.cheto.s1.global_2071-8c26bb0c-GLOBAL-206.deb
+Size: 3039662
+MD5sum: d50a80fa83bc9dd2a22f7e26236cd5ec
+Description: Cheto PUBGM v2071
+Name: Cheto PUBGM 0.19.0 (ipaSigner backup)
+Author: Cheto
+Depiction: https://johnstylez.github.io/depictions/?p=com.cheto.s1.global
+
+Package: com.cheto.s1.global
+Version: 2073-4557cf68-GLOBAL-206
+Section: Tweaks
+Maintainer: Cheto
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.cheto.s1.global_2073-4557cf68-GLOBAL-206.deb
+Size: 3041040
+MD5sum: 49a7f25cc96d37345527a6736ef5ca48
+Description: Cheto PUBGM v2073
+Name: Cheto PUBGM 0.19.0 (ipaSigner backup)
+Author: Cheto
+Depiction: https://johnstylez.github.io/depictions/?p=com.cheto.s1.global
